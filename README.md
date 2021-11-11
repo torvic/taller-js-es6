@@ -127,3 +127,5 @@ const cars =
 Each element should contain the string “This from costs $” (e.g. for the first element it 
 should say “This Mazda from 1989 costs $5241”).
 4. Create a function `bmwSum` that returns the sum of all prices of the BMW cars.
+
+* Answer exercise 1, [repositorio](https://github.com/torvic/taller-js-es6)
